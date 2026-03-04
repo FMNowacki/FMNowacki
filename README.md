@@ -94,8 +94,8 @@ I actively work through CTF challenges and cybersecurity labs covering web explo
 
 ## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=FMNowacki&show&icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FMNowacki&layout=compact&theme=tokyonight)
+[![Filip's GitHub stats](https://github-readme-stats.vercel.app/api?username=FMNowacki&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FMNowacki&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
