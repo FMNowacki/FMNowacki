@@ -55,7 +55,7 @@ A Flask-based fraud detection suite with an interactive web dashboard.
 
 ---
 
-## 🏴‍☠️ Capture The Flag & Security
+## 🚩 Capture The Flag & Security
 
 I actively work through CTF challenges and cybersecurity labs covering web exploitation, steganography, cryptography, and network security.
 
