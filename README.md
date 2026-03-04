@@ -94,8 +94,9 @@ I actively work through CTF challenges and cybersecurity labs covering web explo
 
 ## 📈 GitHub Stats
 
-[![Filip's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FMNowacki&theme=tokyonight)](https://github.com/FMNowacki)
-[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FMNowacki&theme=tokyonight)](https://github.com/FMNowacki)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FMNowacki&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FMNowacki&layout=compact&theme=tokyonight)
+
 ---
 
 ## 📫 Let's Connect
