@@ -74,9 +74,9 @@ I actively work through CTF challenges and cybersecurity labs covering web explo
 
 ## 🤝 Community & Leadership
 
-**ESHA Trojan** — TU/e Study Association  
-- **Website Infrastructure Chair** — maintaining and developing the association's web presence  
-- **Activities Committee Chair** — organising events for the student community
+**ESHA Trojan** — TU/e Hacking Association  
+- **Website Infrastructure Chair** — maintaining and developing the association's web presence, currently leading a website redesign
+- **Activities Committee Chair** — organising events for the Trojan community
 
 **Student Mentor** — guiding first-year students through their transition into university life
 
